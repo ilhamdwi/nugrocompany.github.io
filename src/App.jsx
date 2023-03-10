@@ -28,6 +28,8 @@ import BannerSetting from "./admin/BannerSetting";
 import PopUp from "./admin/PopUp";
 import Daftalayanan from "./pages/Daftalayanan";
 import WhatsappSetting from "./admin/WhatsappSetting";
+import PulsaXl from "./pages/order/PulsaXl";
+import Pulsaxl1 from "./admin/PulsaXl";
 
 function App() {
   return (
@@ -60,6 +62,8 @@ function App() {
         <Route path="/admin/mobile-legend" element={<Mobilelegend />} />
         <Route path="/order/mobile-legends" element={<Mobilelegends />} />
         <Route path="*" element={<NotFound />} />
+        <Route path="/order/pulsa-xl" element={<PulsaXl/>}/>
+        <Route path="/admin/pulsa-xl" element={<Pulsaxl1/>}/>
       </Routes>
       <FooterBot />
     </Router>

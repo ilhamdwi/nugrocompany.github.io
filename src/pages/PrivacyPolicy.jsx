@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
                     <div className='border border-gray-200 p-2.5 rounded-xl mt-3 bg-white shadow-xl mb-5 '>
                         <h1 className='font-bold text-2xl xl:p-5 mb-3 mt-3'>Privacy Policy</h1>
                         <div className='xl:p-5'>
-                            <p className='text-justify'>At NugroCompany, accessible from <a href="https://arkafstore.netlify.app">https://arkafstore.netlify.app</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by arkafstore and how we use it.</p>
+                            <p className='text-justify'>At NugroCompany, accessible from <a href="https://nugrocompany.netlify.app">https://nugrocompany.netlify.app</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by nugrocompany and how we use it.</p>
 
                             <p className='text-justify mt-3 mb-3'>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
@@ -36,15 +36,15 @@ export default function PrivacyPolicy() {
 
                             <h2 className='text-xl mt-3 mb-3'>Privacy Policies</h2>
 
-                            <p className=' text-justify mt-3 mb-3'>You may consult this list to find the Privacy Policy for each of the advertising partners of arkafstore.</p>
+                            <p className=' text-justify mt-3 mb-3'>You may consult this list to find the Privacy Policy for each of the advertising partners of nugrocompany.</p>
 
-                            <p className=' text-justify mt-3 mb-3'>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on arkafstore, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+                            <p className=' text-justify mt-3 mb-3'>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on nugrocompany, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
 
-                            <p className=' text-justify mt-3 mb-3'>Note that arkafstore has no access to or control over these cookies that are used by third-party advertisers.</p>
+                            <p className=' text-justify mt-3 mb-3'>Note that nugrocompany has no access to or control over these cookies that are used by third-party advertisers.</p>
 
                             <h2 className='text-xl mt-3 mb-3'>Third Party Privacy Policies</h2>
 
-                            <p className=' text-justify mt-3 mb-3'>arkafstore's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+                            <p className=' text-justify mt-3 mb-3'>nugrocompany's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
 
                             <p className=' text-justify mt-3 mb-3'>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?</p>
 
@@ -52,11 +52,11 @@ export default function PrivacyPolicy() {
 
                             <p className=' text-justify mt-3 mb-3'>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
 
-                            <p className=' text-justify mt-3 mb-3'>arkafstore does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+                            <p className=' text-justify mt-3 mb-3'>nugrocompany does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
 
                             <h2 className='text-xl mt-3 mb-3'>Online Privacy Policy Only</h2>
 
-                            <p className=' text-justify mt-3 mb-3'>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in arkafstore. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+                            <p className=' text-justify mt-3 mb-3'>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in nugrocompany. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 
                             <h2 className='text-xl mt-3 mb-3'>Consent</h2>
 
